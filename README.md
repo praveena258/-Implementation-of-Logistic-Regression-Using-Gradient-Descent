@@ -100,13 +100,19 @@ print(y_prednew)
 ```
 
 ## Output:
+
 ## dataset
+
 <img width="957" height="337" alt="image" src="https://github.com/user-attachments/assets/0fa58842-2cdd-4e77-a9d6-9b3d02197c75" />
+
 ## dtypes
+
 <img width="333" height="239" alt="image" src="https://github.com/user-attachments/assets/e60b75ef-4045-4724-8ae9-c3b83d988d6d" />
 
 <img width="821" height="363" alt="image" src="https://github.com/user-attachments/assets/d4e5c886-5bb2-45fa-93c1-eafc3116822d" />
+
 ## y
+
 <img width="674" height="187" alt="image" src="https://github.com/user-attachments/assets/7a530437-997a-418b-ae7e-424d222d988b" />
 
 ## Accuracy
@@ -114,6 +120,7 @@ print(y_prednew)
 <img width="286" height="50" alt="image" src="https://github.com/user-attachments/assets/5d255571-d8fe-4300-9dcb-54777cb247d4" />
 
 ## Predicted
+
 <img width="861" height="571" alt="image" src="https://github.com/user-attachments/assets/602da764-e318-49b8-9edc-9a8e8ea1f8d3" />
 
 
